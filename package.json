@@ -1,18 +1,73 @@
 {
-  "name": "@ReguideWIKI/TeaSimple-ReGuide",
+  "name": "@omegion1npm/debitis-eveniet-error",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
+  "author": "omegion1",
   "license": "MIT",
+  "dependencies": {
+    "@drftgyhuji7npm/assumenda-nisi-veniam": "^1.0.0",
+    "@drtyhu8npm/itaque-repudiandae-a": "drtyhu8npm/maiores-soluta-suscipit",
+    "@omegion1npm/ab-consequuntur-illum-architecto": "^1.0.0",
+    "@omegion1npm/consequatur-vitae-aperiam-sed": "^1.0.0",
+    "@omegion1npm/delectus-fuga-libero-facere": "^1.0.0",
+    "@omegion1npm/distinctio-dignissimos-consequatur-occaecati": "^1.0.0",
+    "@omegion1npm/eligendi-harum-porro-numquam": "^1.0.0",
+    "@omegion1npm/eum-minus-vero-suscipit": "^1.0.0",
+    "@omegion1npm/eveniet-temporibus-dignissimos-temporibus": "^1.0.0",
+    "@omegion1npm/eveniet-ut-illum-veritatis": "^1.0.0",
+    "@omegion1npm/explicabo-laborum-asperiores-culpa": "^1.0.0",
+    "@omegion1npm/facere-ullam-excepturi-facilis": "^1.0.0",
+    "@omegion1npm/harum-laudantium-doloribus-doloremque": "^1.0.0",
+    "@omegion1npm/id-officiis-expedita-tempora": "^1.0.0",
+    "@omegion1npm/in-nesciunt-sapiente-praesentium": "^1.0.0",
+    "@omegion1npm/inventore-quibusdam-impedit-nulla": "^1.0.0",
+    "@omegion1npm/itaque-distinctio-eligendi-earum": "^1.0.0",
+    "@omegion1npm/minima-accusantium-illum-aperiam": "^1.0.0",
+    "@omegion1npm/minima-odit-natus-accusamus": "^1.0.0",
+    "@omegion1npm/mollitia-dolores-libero-neque": "^1.0.0",
+    "@omegion1npm/nemo-tempore-cum-voluptas": "^1.0.0",
+    "@omegion1npm/neque-quasi-nihil-alias": "^1.0.0",
+    "@omegion1npm/odit-enim-cum-aliquid": "^1.0.0",
+    "@omegion1npm/quia-non-illo-tempora": "^1.0.0",
+    "@omegion1npm/quibusdam-facilis-nesciunt-inventore": "^1.0.0",
+    "@omegion1npm/repudiandae-cupiditate-quibusdam-quis": "^1.0.0",
+    "@omegion1npm/tempore-quidem-id-eaque": "^1.0.0"
+  },
+  "keywords": [
+    "jsx",
+    "figlet",
+    "react-testing-library",
+    "async",
+    "xss",
+    "fastify",
+    "ES2018",
+    "compile less",
+    "callback",
+    "setter",
+    "array",
+    "Array.prototype.contains",
+    "scheme",
+    "chai",
+    "performant",
+    "logging",
+    "setImmediate",
+    "uuid",
+    "classname",
+    "find-up",
+    "coercible",
+    "configurable",
+    "matchAll",
+    "negative",
+    "querystring"
+  ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/ReguideWIKI/TeaSimple-ReGuide.git"
+    "url": "https://github.com/omegion1npm/debitis-eveniet-error.git"
   },
-  "dependencies": {
-    
-  }
+  "homepage": "https://github.com/omegion1npm/debitis-eveniet-error/#readme",
+  "bugs": {
+    "url": "https://github.com/omegion1npm/debitis-eveniet-error/issues"
+  },
+  "packageManager": "yarn@4.1.1"
 }
